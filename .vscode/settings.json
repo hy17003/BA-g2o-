@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "cctype": "cpp",
+        "cmath": "cpp",
+        "cstdarg": "cpp",
+        "cstddef": "cpp",
+        "cstdio": "cpp",
+        "cstdlib": "cpp",
+        "cstring": "cpp",
+        "ctime": "cpp",
+        "cwchar": "cpp",
+        "strstream": "cpp",
+        "chrono": "cpp",
+        "cstdint": "cpp",
+        "initializer_list": "cpp",
+        "iosfwd": "cpp",
+        "ratio": "cpp",
+        "cinttypes": "cpp",
+        "typeindex": "cpp"
+    }
+}
